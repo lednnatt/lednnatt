@@ -1,23 +1,3 @@
-<img src="imgs/486234.jpg" class="image-banner"/>
-
-<style>
-  .image-banner {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-</style>
-
-<p align="center">
-  <a href="https://pinterest.com/lennatt_21/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/leonardx22" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
-</p>
-
-
 <br>
 
 <h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About me</em> </h2>

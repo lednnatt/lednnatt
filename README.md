@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-<img src="/imgs/title2.png" width="25"/> <h2 align="center"> <em> Technologies </em> </h2>
+<h2 align="center"> <em> Technologies </em> <img src="/imgs/title2.png" width="25"/> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <br/>

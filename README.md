@@ -62,10 +62,9 @@
 
 </div>
  
- ### ◾ Github Profile Summary Card
- 
- <div align=center>
+
+<div align=center>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lednnatt&theme=github_dark)
   
- </div>
+</div>

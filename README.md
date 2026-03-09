@@ -9,33 +9,36 @@
 </p>
 
 <br>
-
-<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About me</em> </h2>
-
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-
+<h2 align="center"> <em>About me</em> </h2>
 <br/>
 
 <p>
-  Hi! <em><b> I'm Leonardo Antonio</b></em>, a Software development student. I like to learn new technologies and improve my programming skills everyday. The power of knowledge is the most decisive power we can possess; it's not about doing more, it's about doing what truly matters. Consistency is the key to achieving anything we desire.
+  Hi! <em><b> I'm Leonardo Antonio</b></em> - a Full-Stack Developer who enjoys building robust and scalable systems.
+  I'm passionate about understanding how software interacts with infrastructure and security. I'm currently focused on improving my skills in backend engineering, DevOps practices, and developing secure software.  
 </p>
 
+<br> 
+<h3 align="center"> Languages </h3>
+</br>
+<p aling="center"> Python / JavaScript / Java </p>
+
+<br> 
+<h3 align="center"> Frontend </h3>
+</br>
+<p aling="center"> React </p>
+
+<br> 
+<h3 align="center"> Backend </h3>
+</br>
+<p aling="center"> Design Patterns / Business Logic Design / POO / REST APIs </p>
+
+<br> 
+<h3 align="center"> DevOps & Systems </h3>
+</br>
+<p aling="center"> Docker / Jenkins / Linux </p>
+s
 <br/>
 <br/>
-
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
 
 <br/>
 <br/>

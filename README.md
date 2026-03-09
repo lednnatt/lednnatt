@@ -48,16 +48,17 @@
 
 <div align="center">
 
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23000000?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23000000.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-%23000000.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
  

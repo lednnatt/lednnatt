@@ -17,8 +17,8 @@
 ---
 <div align="center"> 
   
-  - A Full-Stack Developer passionate about building scalable and robust systems.
-  - I love explorin g and understanding how software interacts with infrastructure and security. Currently focused on learning and improving my skills in backend engineering, DevOps practices, and secure software development.
+  - A Backend Developer passionate about building scalable and robust systems.
+  - I like exploring and understanding how software interacts with infrastructure and security. Currently focused on learning and improving my skills in backend engineering, DevOps practices, and secure software development.
 
 </div>
 
@@ -33,6 +33,7 @@
 ![CSS](https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </div>
 
@@ -42,6 +43,14 @@
 
 ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
 
+</div>
+
+#### 🔸 Libraries
+
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=white)
+ 
 </div>
 
 #### ▫️ Tools
@@ -58,7 +67,6 @@
 ![Wireshark](https://img.shields.io/badge/wireshark-%23000000.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
  

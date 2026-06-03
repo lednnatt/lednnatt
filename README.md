@@ -27,8 +27,7 @@
 #### ▫️ Languages
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+   
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -37,11 +36,12 @@
 
 </div>
 
-#### ◾ Frameworks
+#### ▪️ Frameworks
 
 <div align="center">
 
 ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -50,6 +50,8 @@
 <div align="center">
 
 ![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Psycopg2](https://img.shields.io/badge/psycopg2-%23000000.svg?style=for-the-badge&logo=psycopg2&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23000000.svg?style=for-the-badge&logo=sqlalchemy2&logoColor=white)
  
 </div>
 
@@ -59,14 +61,12 @@
 
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23000000?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23000000.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-%23000000.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 </div>
  

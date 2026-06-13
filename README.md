@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Leonardo Antonnio
+  Hi, I'm Leonardo Antonio
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -18,7 +18,7 @@
 <div align="center"> 
   
   - A Backend Developer passionate about building scalable and robust systems.
-  - I like exploring and understanding how software interacts with infrastructure and security. Currently focused on learning and improving my skills in backend engineering, DevOps practices, and secure software development.
+  - I like exploring and understanding how software interacts with infrastructure and security. Currently focused on learning and improving my skills DevOps practices, and secure software development.
 
 </div>
 

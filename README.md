@@ -17,7 +17,7 @@
 ---
 <div align="center"> 
   
-  - A Backend Developer passionate about building scalable and robust systems.
+  - A Software Developer passionate about building scalable and robust systems.
   - I like exploring and understanding how software interacts with infrastructure and security. Currently focused on learning and improving my skills DevOps practices, and secure software development.
 
 </div>

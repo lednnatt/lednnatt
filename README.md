@@ -7,18 +7,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=System%20Design;Application%20Security;Backend%20Engineering;DevOps%20and%20Infrastructure&font=Fira%20Code&center=true&vCenter=true&width=440&height=45&color=FFFFFF&size=22&pause=1000">
-  </a>
-</p>
-
-
 ---
 <div align="center"> 
   
-  - A Software Developer passionate about building scalable and robust systems.
-  - I like exploring and understanding how software interacts with infrastructure and security. Currently focused on learning and improving my skills DevOps practices, and secure software development.
+  - A passionate software developer.
+  - Currently using Python as my main language, for me programming is a habit; I like to explore and learn new concepts related to computer science in general.
 
 </div>
 
@@ -28,11 +21,8 @@
 
 <div align="center">
    
-![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![BashScript](https://img.shields.io/badge/BashScript-%23000000.svg?style=for-the-badge&logo=bashcript&logoColor=white)
 
 </div>
 

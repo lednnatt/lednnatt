@@ -11,7 +11,7 @@
 <div align="center"> 
   
   - A passionate software developer.
-  - Currently using Python as my main language, for me programming is a habit; I like to explore and learn new concepts related to computer science in general.
+  - Currently using Python as my main language; I like to explore and learn new concepts related to computer science in general.
 
 </div>
 

@@ -50,13 +50,14 @@
 <div align="center">
 
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-%23000000.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
+![Postgre](https://img.shields.io/badge/postgre-%23000000.svg?style=for-the-badge&logo=postgre&logoColor=white)
 
 </div>
  

@@ -12,16 +12,14 @@
 
 ---
 
-<div>
-
+```bash
 $ echo "My Skills: "
-   
-💻 Programming:   Python, BashScript
-🌐 Web Dev:       React, Node.js, Pnpm
-🛠️ Tools:         Claude Code, Notion, Obsidian, Jenkins, Wireshark
-</div>
 
-<div>
+💻 Programming:   Python, BashScript 
+🌐 Web Dev:       React, Node.js, pnpm
+🛠️ Tools:         Claude Code, Notion, Obsidian, Jenkins, Wireshark
+```
+
    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lednnatt&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lednnatt&theme=github_dark&utcOffset=8)
